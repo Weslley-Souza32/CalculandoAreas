@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculandoAreas", "CalculandoAreas\CalculandoAreas.csproj", "{ED7737E6-DF9A-4E24-9A93-B391F2E8F9C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED7737E6-DF9A-4E24-9A93-B391F2E8F9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7737E6-DF9A-4E24-9A93-B391F2E8F9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7737E6-DF9A-4E24-9A93-B391F2E8F9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7737E6-DF9A-4E24-9A93-B391F2E8F9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6A73E5B-264C-4B0B-A325-405DB842F259}
+	EndGlobalSection
+EndGlobal
